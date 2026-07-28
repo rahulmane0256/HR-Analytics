@@ -30,9 +30,7 @@ This HR Analytics Dashboard is built using Power BI to analyze employee attritio
 
 ## 📊 Dashboard Preview
 
-Upload your dashboard screenshots here.
-
-Example:
+![HR Analytics Dashboard](dashboard1.png)
 
 ![Dashboard 1](dashboard1.png)
 
