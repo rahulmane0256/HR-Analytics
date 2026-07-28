@@ -34,9 +34,7 @@ This HR Analytics Dashboard is built using Power BI to analyze employee attritio
 
 ![Dashboard 1](dashboard1.png)
 
-![Dashboard 2](dashboard2.png)
 
-![Dashboard 3](dashboard3.png)
 
 ## 👤 Author
 
